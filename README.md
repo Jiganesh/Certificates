@@ -1,2 +1,3 @@
 # Certificates
-Soft Copy of Some Certificates 
+
+These are the soft copies of some certificates.
